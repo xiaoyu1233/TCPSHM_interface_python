@@ -4,7 +4,7 @@
 
 构建python接口模块方法如下：
 
-    1. 安装swig3.0以上版本，命令行输入swig -version查看版本号
+    1. Linux系统下安装swig3.0以上版本，命令行输入swig -version查看版本号
   
     2. 命令行输入 swig -c++ -python -py3 TCPSHM_CLIENT.i
   
